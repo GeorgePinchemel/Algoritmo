@@ -1,2 +1,2 @@
 # Algoritmo
-Listas de Exercicio
+Listas de Exercicios
