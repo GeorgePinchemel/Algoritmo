@@ -19,6 +19,6 @@ Os exercícios foram desenvolvidos utilizando o VisuaALG 3.0.6
 
 ## 🔍 Como utilizar este repositório
 
-1. Clone o repositório:
-   ```sh
-   git clone https://github.com/seu-usuario/repo-algoritmos.git
+Clique no botão " <> Code" (que está na cor verde) e:
+- Copie o link HTTPS e colo no GitBash
+- Baixe o arquivo no formato ZIP
