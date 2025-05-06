@@ -20,6 +20,4 @@ Os exercícios foram desenvolvidos utilizando o VisuaALG 3.0.6
 ## 🔍 Como utilizar este repositório
 
 Clique no botão " <> Code" (que está na cor verde) e:
-- Copie o link HTTPS e cole no GitBash
-                ou
-- Baixe o arquivo no formato ZIP
+- Copie o link HTTPS e cole no GitBash ou baixe o arquivo no formato ZIP
