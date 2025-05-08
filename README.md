@@ -8,7 +8,7 @@ Bem-vindo ao meu repositório de exercícios de Algoritmos! Aqui você encontrar
 Este repositório contém exercícios que abrangem diversos tópicos, incluindo:
 - Estruturas Sequenciais
 - Estruturas Condicionais
-- Estruturas de Repetição (em breve)
+- Estruturas de Repetição
 - Vetor e Matriz (em breve)
 
 Cada exercício está organizado em diretórios específicos, contendo nos títulos o número da atividade, onde aconselho acompanhar juntamente com o número da questão da lista.
