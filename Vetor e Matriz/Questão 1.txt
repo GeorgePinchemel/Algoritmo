@@ -1,0 +1,31 @@
+1) Monte o teste de mesa e determine o valor de T. É obrigatório demonstrar o teste de mesa corretamente.
+ALGORITMO “QUESTÃO 1”
+VAR
+	I, AUX, T : INTEIRO
+	V : VETOR [1..3] DE INTEIRO
+INICIO
+	V[1] := 1
+	V[2] := 2
+	V[3] := 3
+	I = 0
+	PARA I DE 3 ATE 1 PASSO -1 FACA
+   		AUX := V [I]
+   		V [I] := V [3 - I + 1]
+   		V [3 - I + 1] := AUX
+	FIMPARA
+	V[1] := V[V[2]] = v[2]
+	V[3] := V[V[2]] = V[2]
+	T := V[1] + V[2] + V[3]
+	ESCREVAL (T)
+FIMALGORITMO
+
+
+
+	I | AUX | T | 		V1 | V2 | V3
+		  	
+	0	  6		 1 |  2 | 3
+	3    3                   3        1
+	2    2			      2
+	1    3			 1    2   3
+				 2        2
+        
