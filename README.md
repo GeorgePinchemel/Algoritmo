@@ -9,7 +9,7 @@ Este repositório contém exercícios que abrangem diversos tópicos, incluindo:
 - Estruturas Sequenciais
 - Estruturas Condicionais
 - Estruturas de Repetição
-- Vetor e Matriz (em breve)
+- Vetor e Matriz
 
 Cada exercício está organizado em diretórios específicos, contendo nos títulos o número da atividade, onde aconselho acompanhar juntamente com o número da questão da lista.
 
